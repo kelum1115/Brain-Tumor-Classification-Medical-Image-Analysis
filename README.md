@@ -109,6 +109,13 @@ python code/train.py
 
 ---
 
+## Team
+- Cameron Askins
+- Axel Espinosa-Chan
+- Williams Okoye
+- Tirth Patel
+
+---
 ## Tech Stack
 - Python
 - PyTorch
