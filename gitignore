@@ -1,0 +1,7 @@
+*.pth
+*.h5
+*.keras
+__pycache__/
+*.pyc
+.env
+~/.cache/kagglehub/
